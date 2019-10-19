@@ -5,8 +5,8 @@ $(document).ready(function() {
             /* NAVIGATION  */
     /***************************************************************************/
 
-      var user = 'codersdiealone',
-          domain = 'gmail.com' ,
+      var user = 'mengbingchen0214',
+          domain = '163.com' ,
           elm = document.querySelector('#mailAdres');
 
       elm.innerHTML = user + '@' + domain;
